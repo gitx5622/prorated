@@ -46,7 +46,7 @@ class Reviews extends Component {
             prevArrow: <SamplePrevArrow />
           };
     return (
-    <div className="reviewss" style={{backgroundColor:"#344754"}}>
+    <div className="reviewss" style={{backgroundColor:"#05386B"}}>
     <div className="pt-5 pb-4 col-md-8 offset-md-2">
                 <Container>
                 <center>
@@ -275,7 +275,7 @@ class Reviews extends Component {
           </div>
         </Slider><br/><br/>
                 <center>
-                <a href="/reviews"><Button size="sm" theme="success">Read Latest Reviews <BsArrowRight style={{ fontSize:"20px"}}/></Button></a>
+                <a href="/reviews"><Button size="sm" theme="info">Read Latest Reviews <BsArrowRight style={{ fontSize:"20px"}}/></Button></a>
                 </center>
                 </Container>
             </div>

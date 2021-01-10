@@ -101,8 +101,8 @@ const Carousel = () => {
                                     <p className="bottom-card">100% SATISFACTION GUARANTEED</p>
                                 </center>
                                 <Row>
-                                    <Col sm={6}><a href="/order/index"><Button theme="success">Dashboard</Button></a></Col>
-                                    <Col sm={6}><a href="/order/createorder"><Button theme="success">Order
+                                    <Col sm={6}><a href="/order/index"><Button theme="info">Dashboard</Button></a></Col>
+                                    <Col sm={6}><a href="/order/createorder"><Button theme="info">Order
                                         Now</Button></a></Col>
                                 </Row>
                             </CardBody>
@@ -175,7 +175,7 @@ const Carousel = () => {
                                     <center><p className="minimunPrice"><strong>Minimum Price
                                         : $ {(myservice * mytype * myurgency * mypages * mylevel).toFixed(2)}</strong></p></center>
                                     <center><a href="/order/index"><Button href="/order/createorder" block size="sm"
-                                                                           theme="success">Continue</Button></a>
+                                                                           theme="info">Continue</Button></a>
                                     </center>
                                 </form>
                             </CardBody>

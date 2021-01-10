@@ -27,7 +27,7 @@ class Testimonials extends Component {
             }
         }
         return (
-            <div className="pt-4 testimonials" style={{backgroundColor:"#344754"}}>
+            <div className="pt-4 testimonials" style={{backgroundColor:"#05386B"}}>
             <div className="col-md-8 offset-md-2">
                 <Container>
                 <center>

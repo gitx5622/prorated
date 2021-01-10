@@ -59,7 +59,7 @@ const HowItWorks = () => {
             <p>We send the completed paper to you</p>
             </li>
         </ul>
-        <a href="/order/index"><Button size="sm" theme="success">Order Now</Button></a>
+        <a href="/order/index"><Button size="sm" theme="info">Order Now</Button></a>
         </center>
         </Container>
         </div>

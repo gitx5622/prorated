@@ -102,7 +102,7 @@ p {
   width: 5rem;
   height: 0.25rem;
   margin-bottom: 1.25rem;
-  background: #fdaa8f;
+  background: #F79E02;
   margin-left: auto;
   margin-right: auto;
 }
@@ -151,7 +151,7 @@ Navbar
 ===============
 */
 nav {
-  background: #fdaa8f;
+  background: #10E7DC;
   box-shadow: var(--light-shadow);
   max-height: 60px;
 }
@@ -170,7 +170,7 @@ nav {
   cursor: pointer;
 }
 .nav-toggle:hover {
-  color: #17c671;
+  color: #F79E02;
   transform: rotate(90deg);
 }
 
@@ -185,8 +185,8 @@ nav {
   text-decoration: none;
 }
 .links a:hover {
-  background: #17c671;
-  color: #17c671;
+  background: #F79E02;
+  color: #F79E02;
   padding-left: 1.5rem;
 }
 .links-container {
@@ -229,7 +229,7 @@ nav {
 }
 @media (max-width: 575.98px) { 
   nav {
-    background: #fdaa8f;
+    background: #F79E02;
     box-shadow: var(--light-shadow);
     max-height: 600px;
   }
@@ -241,7 +241,7 @@ Carousel
 */
 
 .background {
-  background-image: url('./assets/back.png');
+  background-image: url('./assets/blog1.jpg');
   /* Full height */
   min-height: 100%;
 
@@ -313,7 +313,7 @@ Reviews
   color: black;
 }
 .owl-dot {
-  background-color: #17c671;
+  background-color: #F79E02;
 }
 .card-review {
   border-radius: unset;
@@ -324,7 +324,7 @@ Reviews
 }
 .vertical-line {
   border-left: solid;
-  border-color: #fdaa8f;
+  border-color: #F79E02;
   height: 150px;
 }
 .vertical-inside {
@@ -348,7 +348,7 @@ How it works
   font-size: 30px;
 }
 .badge-top {
-  background-color:#fdaa8f;
+  background-color:#F79E02;
 }
 @media screen and (min-width: 800px) {
   .howitworks-links {
@@ -533,7 +533,7 @@ Testimonials
 
 .testimonials {
   /* background-image: url('./assets/testimonials.png'); */
-  background-color: #fdaa8f;
+  background-color: #F79E02;
   padding-bottom: 50px;
 }
 /*
@@ -546,15 +546,15 @@ Common
   padding: 130px 100px;
 }
 .order-color:hover {
-  background-color: #fdaa8f;
+  background-color: #F79E02;
   color: white;
 }
 .placeorder-btn {
   border-radius: 20px;
-  background-color: #fdaa8f;
+  background-color: #F79E02;
 }
 .promocode-btn {
-  background-color: #fdaa8f;
+  background-color: #F79E02;
 }
 /*
 =============== 
@@ -579,7 +579,7 @@ Sidebar
 ===============
 */
 .sidebar-icons  {
-  color: #17c671;
+  color: #F79E02;
 }
 
 .mediabody1 {
@@ -587,14 +587,14 @@ Sidebar
 }
 
 .mediabody1:hover {
-  background-color: #beefd7;
+  background-color: #F79E02;
   position: relative;
   z-index: 1;
 }
 
 .slick-dots li button:before {
   font-size: 20px;
-  color: #17c671;
+  color: #F79E02;
 }
 .ck-editor__editable {
   min-height: 320px;

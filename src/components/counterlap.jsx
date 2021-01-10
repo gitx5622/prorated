@@ -51,7 +51,7 @@ const Counterlap = () => {
 
     return ( 
         <div>
-            <div class="body-container pt-4 pb-4" style={{backgroundColor:"#344754"}}>
+            <div class="body-container pt-4 pb-4" style={{backgroundColor:"#05386B"}}>
         <div class="container">
         <div class="row" style={{height: "auto", color: "white"}}>
             <div class="col-md-3 col-sm-3 col-xs-12 numbers-items">
