@@ -229,7 +229,7 @@ nav {
 }
 @media (max-width: 575.98px) { 
   nav {
-    background: #F79E02;
+    background: #10E7DC;
     box-shadow: var(--light-shadow);
     max-height: 600px;
   }
@@ -526,9 +526,9 @@ Auth
   }
 }
 /*
-=============== 
+=====================================
 Testimonials
-===============
+=====================================
 */
 
 .testimonials {
@@ -537,9 +537,9 @@ Testimonials
   padding-bottom: 50px;
 }
 /*
-=============== 
+====================================
 Common
-===============
+====================================
 */
 .loading {
   text-align: center;
@@ -557,9 +557,9 @@ Common
   background-color: #F79E02;
 }
 /*
-=============== 
+=================================
 Order Footer
-===============
+==================================
 */
 .order-footer {
   background-color: white; 
@@ -574,9 +574,9 @@ Order Footer
  padding-left: 30px;
 }
 /*
-=============== 
+=================================
 Sidebar
-===============
+=================================
 */
 .sidebar-icons  {
   color: #F79E02;
